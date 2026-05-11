@@ -2,6 +2,8 @@ package pt1;
 
 public class Main {
     static void main() {
+        //uso el main como si fuese la empresa
+
         EmpleadoJerarquico director = new EmpleadoJerarquico("D", 500, TipoEmpleado.DIRECTOR);
         EmpleadoJerarquico gerente = new EmpleadoJerarquico("G", 400, TipoEmpleado.GERENTE);
         EmpleadoJerarquico mandoMedio = new EmpleadoJerarquico("M", 300, TipoEmpleado.MANDO_MEDIO);
