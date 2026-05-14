@@ -5,7 +5,7 @@ import java.util.List;
 
 public class HistoriaUsuario implements ItemProyecto {
 
-    //historia de usuario podria tener horas ademas de las horas de las tareas
+    //historia de usuario podria tener horas ademas de las horas de las tareas?
     //en este caso asumo que solo se usan las horas de sus tareas.
 
     private String nombre;
